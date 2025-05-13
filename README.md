@@ -2,7 +2,7 @@
 
 | Nombre | GitHub | Correo |
 |--------|--------|--------|
-| Adang-hub | adan.guerra@estudiante.uc.cl |
+| Adan Guerra | Adang-hub | adan.guerra@estudiante.uc.cl |
 
 ## Aportes de cada integrante
 - Adan: Todo (algoritmo y el git)
